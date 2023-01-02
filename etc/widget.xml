@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+    <widget id="risecommerce_featuredproducts" class="Risecommerce\FeaturedProducts\Block\FeaturedProducts">
+        <label translate="true">Featured Products Slider</label>
+        <description>Risecommerce Featured Products Slider</description>
+    </widget>
+</widgets>
